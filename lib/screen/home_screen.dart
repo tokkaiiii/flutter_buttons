@@ -108,6 +108,33 @@ class HomeScreen extends StatelessWidget {
                 'Outlined Button Shape',
               ),
             ),
+            ElevatedButton.icon(
+              onPressed: () {},
+              icon: Icon(
+                Icons.keyboard_alt_outlined,
+              ),
+              label: Text(
+                '키보드',
+              ),
+            ),
+            TextButton.icon(
+              onPressed: () {},
+              icon: Icon(
+                Icons.keyboard_alt_outlined,
+              ),
+              label: Text(
+                '키보드',
+              ),
+            ),
+            OutlinedButton.icon(
+              onPressed: () {},
+              icon: Icon(
+                Icons.keyboard_alt_outlined,
+              ),
+              label: Text(
+                '키보드',
+              ),
+            ),
           ],
         ),
       ),
